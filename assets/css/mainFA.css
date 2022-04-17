@@ -1199,9 +1199,9 @@ section {
   padding: 0;
 }
 .onfocus .video-play {
-  min-height: 400px;
-  background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url("../img/onfocus-video-bg.jpg") center center;
-  background-size: cover;
+   /* min-height: 400px; */
+  background: linear-gradient(rgba(var(--color-black-rgb), 0.4), rgba(var(--color-black-rgb), 0.7)), url("../img/Cooperation.png") top center;
+  background-size : cover;
 }
 .onfocus .content {
   background: linear-gradient(rgba(var(--color-secondary-rgb), 0.5), rgba(var(--color-secondary-rgb), 0.8)), url("../img/onfocus-content-bg.jpg") center center;
